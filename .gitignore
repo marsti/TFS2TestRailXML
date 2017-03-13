@@ -102,3 +102,7 @@ TFS2TestRailXML/obj/x86/Release/TFS2TestRailXML_MarkupCompile.i.cache
 TFS2TestRailXML/obj/x86/Release/TFS2TestRailXML.pdb
 TFS2TestRailXML/obj/x86/Release/TFS2TestRailXML_MarkupCompile.cache
 TFS2TestRailXML/obj/x86/Release/TFS2TestRailXML.Properties.Resources.resources
+/.vs
+/packages
+/TFS2TestRailXML/bin/Debug
+/TFS2TestRailXML/obj
